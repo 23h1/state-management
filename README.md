@@ -1,3 +1,5 @@
+This was an excellent tut to follow along to understand State management in React - ```https://www.youtube.com/watch?v=35lXWvCuM8o&t=563s```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
